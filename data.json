@@ -1,0 +1,407 @@
+[
+  {
+    "filename": "202010泰克DC_1-1_课程介绍.mp4",
+    "dirname": "DC课程介绍/课程及考试介绍/202010泰克DC_1-1_课程介绍",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_1-1_课程介绍.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_1-2_DC架构.mp4",
+    "dirname": "VxLAN/数据中心网络架构/202010泰克DC_1-2_DC架构",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_1-2_DC架构.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_1-3_Fabric网络结构.mp4",
+    "dirname": "VxLAN/数据中心网络架构/202010泰克DC_1-3_Fabric网络结构",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_1-3_VxLAN.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_1-4_大二层.mp4",
+    "dirname": "VxLAN/vxlan技术/202010泰克DC_1-4_大二层",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_1-4_大二层.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_2-1_VxLAN.mp4",
+    "dirname": "VxLAN/vxlan技术/202010泰克DC_2-1_VxLAN",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_2-1_VxLAN.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_2-2_VxLAN.mp4",
+    "dirname": "VxLAN/vxlan技术/202010泰克DC_2-2_VxLAN",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_2-2_VxLAN.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_2-3_VxLAN集中式网关.mp4",
+    "dirname": "L3网关及EVPN/VxLAN集中式网关及EVPN/202010泰克DC_2-3_VxLAN集中式网关",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_2-3_VxLAN集中式网关.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_2-4_集中式网关及EVPN.mp4",
+    "dirname": "L3网关及EVPN/VxLAN集中式网关及EVPN/202010泰克DC_2-4_集中式网关及EVPN",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_2-4_集中式网关及EVPN.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_3-1_集中式网关EVPN.mp4",
+    "dirname": "L3网关及EVPN/VxLAN集中式网关及EVPN/202010泰克DC_3-1_集中式网关EVPN",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_3-1_集中式网关EVPN.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_3-2_集中式网关EVPN.mp4",
+    "dirname": "L3网关及EVPN/VxLAN集中式网关及EVPN/202010泰克DC_3-2_集中式网关EVPN",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_3-2_集中式网关EVPN.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_3-3_集中式网关EVPN.mp4",
+    "dirname": "L3网关及EVPN/VxLAN集中式网关及EVPN/202010泰克DC_3-3_集中式网关EVPN",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_3-3_集中式网关EVPN.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_3-4_集中式网关ARP调优.mp4",
+    "dirname": "L3网关及EVPN/VxLAN集中式网关及EVPN/202010泰克DC_3-4_集中式网关ARP调优",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_3-4_集中式网关ARP调优.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_3-5_集中式网关.mp4",
+    "dirname": "L3网关及EVPN/VxLAN集中式网关及EVPN/202010泰克DC_3-5_集中式网关",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_3-5_集中式网关.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_3-6_集中式网关实验1.mp4",
+    "dirname": "L3网关及EVPN/VxLAN集中式网关及EVPN/202010泰克DC_3-6_集中式网关实验1",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_3-6_集中式网关实验1.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_3-7_集中式网关实验2.mp4",
+    "dirname": "L3网关及EVPN/VxLAN集中式网关及EVPN/202010泰克DC_3-7_集中式网关实验2",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_3-7_集中式网关实验2.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_4-1_分布式网关.mp4",
+    "dirname": "L3网关及EVPN/VxLAN分布式网关及EVPN/202010泰克DC_4-1_分布式网关",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_4-1_分布式网关.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_4-2_分布式网关.mp4",
+    "dirname": "L3网关及EVPN/VxLAN分布式网关及EVPN/202010泰克DC_4-2_分布式网关",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_4-2_分布式网关.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_4-3_分布式网关EVPN.mp4",
+    "dirname": "L3网关及EVPN/VxLAN分布式网关及EVPN/202010泰克DC_4-3_分布式网关EVPN",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_4-3_分布式网关EVPN.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_4-4_分布式网关EVPN.mp4",
+    "dirname": "L3网关及EVPN/VxLAN分布式网关及EVPN/202010泰克DC_4-4_分布式网关EVPN",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_4-4_分布式网关EVPN.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_4-5_分布式网关实验.mp4",
+    "dirname": "L3网关及EVPN/VxLAN分布式网关及EVPN/202010泰克DC_4-5_分布式网关实验",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_4-5_分布式网关实验.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_5-1_EVPN总结及DCI.mp4",
+    "dirname": "L3网关及EVPN/DC互联技术/202010泰克DC_5-1_EVPN总结及DCI",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_5-1_EVPN总计及DCI.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_5-2_EVPN及DCI.mp4",
+    "dirname": "L3网关及EVPN/DC互联技术/202010泰克DC_5-2_EVPN及DCI",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_5-2_EVPN及DCI.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_5-3_DCI.mp4",
+    "dirname": "L3网关及EVPN/DC互联技术/202010泰克DC_5-3_DCI",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_5-3_DCI.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_5-4_堆叠.mp4",
+    "dirname": "设备虚拟化/堆叠技术/202010泰克DC_5-4_堆叠",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_5-4_堆叠.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_5-5_堆叠.mp4",
+    "dirname": "设备虚拟化/堆叠技术/202010泰克DC_5-5_堆叠",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_5-5_堆叠.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_6-1_堆叠.mp4",
+    "dirname": "设备虚拟化/堆叠技术/202010泰克DC_6-1_堆叠",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_6-1_堆叠.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_6-2_堆叠.mp4",
+    "dirname": "设备虚拟化/堆叠技术/202010泰克DC_6-2_堆叠",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_6-2_堆叠.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_6-3_堆叠.mp4",
+    "dirname": "设备虚拟化/堆叠技术/202010泰克DC_6-3_堆叠",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_6-3_堆叠.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_6-4_堆叠.mp4",
+    "dirname": "设备虚拟化/堆叠技术/202010泰克DC_6-4_堆叠",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_6-4_堆叠.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_6-5_MLAG.mp4",
+    "dirname": "设备虚拟化/MLAG技术/202010泰克DC_6-5_MLAG",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_6-5_MLAG.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_6-6_MLAG.mp4",
+    "dirname": "设备虚拟化/MLAG技术/202010泰克DC_6-6_MLAG",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_6-6_MLAG.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_7-1_MLAG.mp4",
+    "dirname": "设备虚拟化/MLAG技术/202010泰克DC_7-1_MLAG",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_7-1_MLAG.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_7-2_MLAG.mp4",
+    "dirname": "设备虚拟化/MLAG技术/202010泰克DC_7-2_MLAG",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_7-2_MLAG.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_7-3_MLAG.mp4",
+    "dirname": "设备虚拟化/MLAG技术/202010泰克DC_7-3_MLAG",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_7-3_MLAG.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_7-4_MLAG.mp4",
+    "dirname": "设备虚拟化/MLAG技术/202010泰克DC_7-4_MLAG",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_7-4_MLAG.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_8-1_CloudFabric.mp4",
+    "dirname": "设备虚拟化/Cloudfabric/202010泰克DC_8-1_CloudFabric",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_8-1_CloudFabric.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_8-2_Overlay.mp4",
+    "dirname": "overlay及SDN/overlay/202010泰克DC_8-2_Overlay",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_8-2_Overlay.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_8-3_Overlay.mp4",
+    "dirname": "overlay及SDN/overlay/202010泰克DC_8-3_Overlay",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_8-3_Overlay.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010泰克DC_8-4_SDN概述.mp4",
+    "dirname": "overlay及SDN/sdn/202010泰克DC_8-4_SDN概述",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010泰克DC_8-4_SDN概述.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_9-1_华为SDN概述.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_9-1_华为SDN概述",
+    "web_url": "https://pvc-272191bf-465c-11e9-b766-fa163edf295b.obs.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_9-1_华为SDN概述.mp4"
+  },
+  {
+    "filename": "202010_泰克DC_9-2_华为SDN概述_hc.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_9-2_华为SDN概述_hc",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_9-2_华为SDN概述_hc.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_9-3_华为SDN概述.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_9-3_华为SDN概述",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_9-3_华为SDN概述.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_9-4_华为ac-dcn南向协议.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_9-4_华为ac-dcn南向协议",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_9-4_华为ac-dcn南向协议.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_9-5_华为ac-dcn场景.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_9-5_华为ac-dcn场景",
+    "web_url": "https://pvc-272191bf-465c-11e9-b766-fa163edf295b.obs.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_9-5_华为ac-dcn场景.mp4"
+  },
+  {
+    "filename": "202010_泰克DC_10-1_华为ac-dcn场景.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_10-1_华为ac-dcn场景",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_10-1_华为ac-dcn场景.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_10-2_华为ac-dcn配置说明.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_10-2_华为ac-dcn配置说明",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_10-2_华为ac-dcn配置说明.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_10-3_华为ac-dcn配置说明.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_10-3_华为ac-dcn配置说明",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_10-3_华为ac-dcn配置说明.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_10-4_华为ac-dcn配置说明.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_10-4_华为ac-dcn配置说明",
+    "web_url": "https://pvc-272191bf-465c-11e9-b766-fa163edf295b.obs.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_10-4_华为ac-dcn配置说明.mp4"
+  },
+  {
+    "filename": "202010_泰克DC_10-5_acdcn网络虚拟化演示实验.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_10-5_acdcn网络虚拟化演示实验",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_10-5_acdcn网络虚拟化演示实验.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_10-6_acdcn网络虚拟化演示实验.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_10-6_acdcn网络虚拟化演示实验",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_10-6_acdcn网络虚拟化演示实验.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_10-7_ac-dcn网络虚拟化演示实验.mp4",
+    "dirname": "overlay及SDN/sdn/202010_泰克DC_10-7_ac-dcn网络虚拟化演示实验",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_10-7_ac-dcn网络虚拟化演示实验.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_11-1_VAS_and_SFC.mp4",
+    "dirname": "overlay及SDN/SFC/202010_泰克DC_11-1_VAS_and_SFC",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_11-1_VAS_and_SFC.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_11-2_SFC.mp4",
+    "dirname": "overlay及SDN/SFC/202010_泰克DC_11-2_SFC",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_11-2_SFC.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_11-3_SFC.mp4",
+    "dirname": "overlay及SDN/SFC/202010_泰克DC_11-3_SFC",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_11-3_SFC.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_11-4_服务器虚拟化.mp4",
+    "dirname": "FusionCompute及FusionStorage/计算部分/202010_泰克DC_11-4_服务器虚拟化",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_11-4_服务器虚拟化.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_12-1_服务器虚拟化之计算.mp4",
+    "dirname": "FusionCompute及FusionStorage/计算部分/202010_泰克DC_12-1_服务器虚拟化之计算",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_12-1_服务器虚拟化之计算.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_12-2_服务器虚拟化之计算.mp4",
+    "dirname": "FusionCompute及FusionStorage/计算部分/202010_泰克DC_12-2_服务器虚拟化之计算",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_12-2_服务器虚拟化之计算.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_11-4_服务器虚拟化.mp4",
+    "dirname": "FusionCompute及FusionStorage/网络部分/202010_泰克DC_11-4_服务器虚拟化",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_11-4_服务器虚拟化.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_12-3_服务器虚拟化之网络.mp4",
+    "dirname": "FusionCompute及FusionStorage/网络部分/202010_泰克DC_12-3_服务器虚拟化之网络",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_12-3_服务器虚拟化之网络.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_12-4_服务器虚拟化之网络存储.mp4",
+    "dirname": "FusionCompute及FusionStorage/网络部分/202010_泰克DC_12-4_服务器虚拟化之网络存储",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_12-4_服务器虚拟化之网络存储.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_13-1_存储.mp4",
+    "dirname": "FusionCompute及FusionStorage/存储部分/202010_泰克DC_13-1_存储",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_13-1_存储.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_13-2_存储.mp4",
+    "dirname": "FusionCompute及FusionStorage/存储部分/202010_泰克DC_13-2_存储",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_13-2_存储.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_13-3_fusionstorage.mp4",
+    "dirname": "FusionStorage/fusionstorage/202010_泰克DC_13-3_fusionstorage",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_13-3_fusionstorage.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_13-4_fusionstorage.mp4",
+    "dirname": "FusionStorage/fusionstorage/202010_泰克DC_13-4_fusionstorage",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_13-4_fusionstorage.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_13-5_fusionstorage.mp4",
+    "dirname": "FusionStorage/fusionstorage/202010_泰克DC_13-5_fusionstorage",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_13-5_fusionstorage.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_14-1_fusionstorage及对象存储.mp4",
+    "dirname": "FusionStorage/fusionstorage/202010_泰克DC_14-1_fusionstorage及对象存储",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_14-1_fusionstorage及对象存储.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_14-2_openstack概述.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/nova-cinder-glance/202010_泰克DC_14-2_openstack概述",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_14-2_openstack概述.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_14-3_openstack_nova_cinder_转_标准.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/nova-cinder-glance/202010_泰克DC_14-3_openstack_nova_cinder_转_标准",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_14-3_openstack_nova_cinder_转_标准.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_14-4_openstack_glance_转_标准.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/nova-cinder-glance/202010_泰克DC_14-4_openstack_glance_转_标准",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_14-4_openstack_glance_转_标准.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_15-1_openstack_neutron.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/neutron-keystone/202010_泰克DC_15-1_openstack_neutron",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_15-1_openstack_neutron.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_15-2_openstack_neutron.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/neutron-keystone/202010_泰克DC_15-2_openstack_neutron",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_15-2_openstack_neutron.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_15-3_openstack_neutron.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/neutron-keystone/202010_泰克DC_15-3_openstack_neutron",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_15-3_openstack_neutron.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_15-4_openstack_neutron.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/neutron-keystone/202010_泰克DC_15-4_openstack_neutron",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_15-4_openstack_neutron.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_15-5_openstackneutron及keystone.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/neutron-keystone/202010_泰克DC_15-5_openstackneutron及keystone",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_15-5_openstackneutron及keystone.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_15-6_openstack_keystone.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/neutron-keystone/202010_泰克DC_15-6_openstack_keystone",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_15-6_openstack_keystone.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_16-1_fusionsphere_openstack_及_swift.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/swift及fusionsphereopenstack-manageone/202010_泰克DC_16-1_fusionsphere_openstack_及_swift",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_16-1_fusionsphere_openstack_及_swift.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_16-2_fusionsphere_openstack_及swift.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/swift及fusionsphereopenstack-manageone/202010_泰克DC_16-2_fusionsphere_openstack_及swift",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_16-2_fusionsphere_openstack_及swift.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_16-3_manageone.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/swift及fusionsphereopenstack-manageone/202010_泰克DC_16-3_manageone",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_16-3_manageone.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_15-7_云网一体实验1.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/云网一体实验/202010_泰克DC_15-7_云网一体实验1",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_15-7_云网一体实验1.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_15-8_云网一体实验2.mp4",
+    "dirname": "FusionSphereOpenstack+manageone/云网一体实验/202010_泰克DC_15-8_云网一体实验2",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_15-8_云网一体实验2.mp4/video.m3u8"
+  },
+  {
+    "filename": "202010_泰克DC_16-4_备份及容灾.mp4",
+    "dirname": "备份及容灾/备份及容灾/202010_泰克DC_16-4_备份及容灾",
+    "web_url": "https://pvc-b517b601-855e-11ea-9a5f-fa163edf295b.obs-website.cn-north-1.myhuaweicloud.com/private-course/15296/videos/202010_泰克DC_16-4_备份及容灾.mp4/video.m3u8"
+  }
+]
